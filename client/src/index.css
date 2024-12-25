@@ -1,0 +1,15 @@
+.custom-box-shadow {
+  @apply shadow-custom;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.react-multiple-carousel__arrow{
+    z-index: 2;
+}
+body{
+  overflow-x: hidden;
+}
