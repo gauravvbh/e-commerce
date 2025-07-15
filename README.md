@@ -118,13 +118,17 @@ Any future date & CVV
 
 ## 🖼️ Screenshots
 
-| Home Page                   | Product Details                            | Cart                        |
-| --------------------------- | ------------------------------------------ | --------------------------- |
-| ![Home](./assests/home.png) | ![Product Details](./assests/shopping.png) | ![Cart](./assests/cart.png) |
+| Home Page                   | Product Details                            
+| --------------------------- | ------------------------------------------ 
+| ![Home](./assests/home.png) | ![Product Details](./assests/shopping.png) 
 
-| Checkout                            | Payment Success                   |
-| ----------------------------------- | --------------------------------- |
-| ![Checkout](./assests/checkout.png) | ![Payment](./assests/payment.png) |
+| Checkout                            | Cart                        |
+| ----------------------------------- | --------------------------- |
+| ![Checkout](./assests/checkout.png) | ![Cart](./assests/cart.png) |
+
+| Payment                           |
+| --------------------------------- |
+| ![Payment](./assests/payment.png) |
 
 ---
 
